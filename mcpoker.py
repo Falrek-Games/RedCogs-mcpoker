@@ -43,7 +43,6 @@ class MCPoker(commands.Cog):
         
 
 
-
     async def cog_unload(self):
         pass
 
