@@ -1,0 +1,15 @@
+{
+    "name": "MCPoker",
+    "short": "Play some Minecraft Stat Poker",
+    "description": "Go through a 100 Day Minecraft playthrough to get a random set of statistics, then bet with friends to see who has the highest stat. Originally envisioned by TangoTek and EthosLab on the Hermitcraft SMP during Season 7.",
+    "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+    "install_msg": "Thanks for installing the cog. I'm in the Cog Support server if you need help with anything.",
+    "author": ["YamiKaitou", "falrek_games"],
+    "required_cogs": {},
+    "requirements": ["databases[aiosqlite]"],
+    "tags": ["economy", "minecraft", "poker", "game", "fun"],
+    "min_bot_version": "3.5.0",
+    "hidden": true,
+    "disabled": false,
+    "type": "COG"
+}
